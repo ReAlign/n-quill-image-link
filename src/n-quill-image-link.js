@@ -1,0 +1,1 @@
+export { default as toolbarImageLink } from './n-module-toolbar-iamge-link';

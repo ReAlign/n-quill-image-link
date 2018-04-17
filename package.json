@@ -1,0 +1,43 @@
+{
+  "name": "n-quill-image-link",
+  "version": "0.0.1",
+  "description": "Quill Extension for ImageLink Selection",
+  "main": "src/n-quill-image-link.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "quill": "^1.3.6"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.2",
+    "style-loader": "0.13.0",
+    "sass-loader": "^6.0.6",
+    "node-sass": "^4.6.0",
+    "uglifyjs-webpack-plugin": "^0.4.3",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/n-quill-image-link.git"
+  },
+  "keywords": [
+    "quill",
+    "image-link"
+  ],
+  "author": "ReAlign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/n-quill-image-link/issues"
+  },
+  "homepage": "https://github.com/ReAlign/n-quill-image-link#readme"
+}
